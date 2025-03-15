@@ -1,4 +1,6 @@
 import streamlit as st
+pandas
+numpy
 
 st.title('🎈 App Name')
 
